@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "1020673535528",
+    "firebase_url": "https://foodie-28872.firebaseio.com",
+    "project_id": "foodie-28872",
+    "storage_bucket": "foodie-28872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020673535528:android:8bb2b8d7883e8272",
+        "android_client_info": {
+          "package_name": "stud01_4145.unikl.edu.my.foodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020673535528-b79sp3b7is0ctrvl8oikm6p71pn36mkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmovCDLXR9kN7asT3TAt_CgAJIWMJD6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020673535528:android:ee7efbfdfa2059c0",
+        "android_client_info": {
+          "package_name": "stud01_4145.unikl.edu.my.testfoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020673535528-nr8hklflmh7ue6dimdef2tnmc2hm4909.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "stud01_4145.unikl.edu.my.testfoodie",
+            "certificate_hash": "AC6BF7CB78F7C1601F751DAE4202B20C69962C69"
+          }
+        },
+        {
+          "client_id": "1020673535528-b79sp3b7is0ctrvl8oikm6p71pn36mkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmovCDLXR9kN7asT3TAt_CgAJIWMJD6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020673535528-b79sp3b7is0ctrvl8oikm6p71pn36mkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020673535528:android:99c0a874bd098012",
+        "android_client_info": {
+          "package_name": "stud01_4145.unikl.edu.my.restaurantfoodie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020673535528-b79sp3b7is0ctrvl8oikm6p71pn36mkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgmovCDLXR9kN7asT3TAt_CgAJIWMJD6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
